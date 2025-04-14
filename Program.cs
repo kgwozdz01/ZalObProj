@@ -10,6 +10,7 @@ namespace ZalObProj
     {
         static void Main(string[] args)
         {
+            ///chuj
         }
     }
 }
